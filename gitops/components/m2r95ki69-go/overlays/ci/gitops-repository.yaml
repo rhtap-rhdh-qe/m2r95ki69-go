@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m2r95ki69-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m2r95ki69-go-gitops
